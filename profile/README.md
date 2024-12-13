@@ -18,7 +18,7 @@
 
 
 ### Download APK:
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1JLZLdZsxAHXApsnWl_J1AkrisbCqtiSO/view?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1R7it4JvGe_9S8cyCNJ9x17oNUmfSR-g9/view?usp=sharing)
 
 
 ### Repository
