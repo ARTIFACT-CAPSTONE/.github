@@ -1,25 +1,12 @@
 <div align="center">
   <img src="https://github.com/ARTIFACT-CAPSTONE/.github/blob/main/Frame%204.png" width="100" height="100"><br>
-  <i>A smarter way to track and reduce food’s carbon footprint.</i>
+  <i>An application whose primary purpose is focused on the detection of AI art.</i>
 </div>
 
-### 🌍 *Did You Know?*  
-Every meal we eat has a hidden story of carbon emissions. From farms to our plates, each step affects the planet. Our project helps you uncover these hidden impacts and make choices that are kinder to the Earth. 🌱  
-
-We aim to:  
-- Show you how your food choices impact the environment.  
-- Give easy-to-understand carbon footprint data for different foods.   
-- Make small changes that protect the planet.  
-- Join a community of people who care about a greener future.  
-
-> 🍃 "Every meal is a chance to create a better world."  
-Let's take that step together! 🌟
 
 
 ### App Preview :
-<a href="https://www.figma.com/proto/fZioLe7cr7ANnt96ztDckB/envBite?node-id=0-1&t=KUl5I24IDLzLRiQF-1" target="_blank">
-  <img src="https://github.com/NV-Bite/.github/blob/main/assets/frame%20mockups.png" alt="App Preview">
-  <img src="https://github.com/NV-Bite/.github/blob/main/assets/mockups.png" alt="App Preview">
+<a href="https://www.figma.com/design/68OSWBgJmEXsd1bGCNkgGI/ArtiFact---Capstone-Project?node-id=87-3&t=Q8jg67edNKqLZIkQ-1 " target="_blank">
 </a>
 
 
