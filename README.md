@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/logo white.png" width="100" height="100"><br>
+  <img src="https://github.com/ARTIFACT-CAPSTONE/.github/blob/main/Frame%204.png" width="100" height="100"><br>
   <i>A smarter way to track and reduce food’s carbon footprint.</i>
 </div>
 
