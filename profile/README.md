@@ -14,7 +14,7 @@
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZASyOKyhOio?si=1kQCXAdOZmtDIj8J)
 
 ### Demo APP:
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fdwMxzZ0uAc?si=Dpi5R3NXb5pYJk30)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ICXoUYFY_aA)
 
 
 ### Download APK:
