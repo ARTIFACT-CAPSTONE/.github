@@ -25,9 +25,9 @@
 
 [![Machine Learning_Preview](https://img.shields.io/badge/Machine%20learning%20Preview-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/ML-Preview)
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/Develop-ML)
+[![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARTIFACT-CAPSTONE/ML)
 
-[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20Backend%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/cc-api)
+[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20Backend%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARTIFACT-CAPSTONE/CC)
 
 [![Cloud Computing_API_Model](https://img.shields.io/badge/Cloud%20Computing%20Model%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/ml-api)
 
